@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleaseProject", "ReleaseProject\ReleaseProject.csproj", "{7A60279D-CA4A-48EB-BA01-09EBD69FF4F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReleaseProject", "ReleaseProject\ReleaseProject.csproj", "{7A60279D-CA4A-48EB-BA01-09EBD69FF4F0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{9B9A195C-BB68-4F88-81AC-8DAE341F76EB}"
 EndProject
@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{C3ADD2DD-1ACC-4816-879E-5DE2DD202206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{03139F08-A2FF-427F-8C9D-85ADEAFBD2BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM", "Models\DM.csproj", "{03139F08-A2FF-427F-8C9D-85ADEAFBD2BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
